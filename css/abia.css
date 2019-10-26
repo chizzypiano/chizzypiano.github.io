@@ -1,5 +1,5 @@
 
-.topnav{background-color: black;overflow: hidden;width: padding-top: 10; padding-bottom: 10;}
+.topnav{background-color: black;overflow: hidden;width: 100%;}
 .topnav a{color: green;
 	text-decoration: none;
 Padding: 10;float: left;font-family: sans-serif;}
