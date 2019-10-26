@@ -1,6 +1,6 @@
 body{font-family: sans-serif;}
 
-.topnav{background-color: black;overflow: hidden;width: 100%;}
+.topnav{background-color: black;overflow: hidden;padding: 0px}
 .topnav a{color: green;
 	text-decoration: none;
 Padding: 14px;float: left;font-family: sans-serif;}
