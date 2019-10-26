@@ -2,7 +2,7 @@
 .topnav{background-color: black;overflow: hidden;width: padding-top: 10; padding-bottom: 10;}
 .topnav a{color: green;
 	text-decoration: none;
-Padding-left: 7;padding-right;float: left;font-family: sans-serif;}
+Padding: 10;float: left;font-family: sans-serif;}
 
 .topnav a:hover{background-color: gray;color: blue;}
 .topnav a.active{background-color: orange;}
