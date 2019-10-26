@@ -1,8 +1,9 @@
+body{font-family: sans-serif;}
 
 .topnav{background-color: black;overflow: hidden;width: 100%;}
 .topnav a{color: green;
 	text-decoration: none;
-Padding: 10;float: left;font-family: sans-serif;}
+Padding: 14px;float: left;font-family: sans-serif;}
 
 .topnav a:hover{background-color: gray;color: blue;}
 .topnav a.active{background-color: orange;}
