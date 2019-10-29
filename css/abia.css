@@ -33,5 +33,5 @@ a{text-decoration: none;}
 
 @media screen and (max-width 720){
 
-.Topnav{display: flex;
- Flex-direction: column;}
+.topnav{display: flex;
+ flex-direction: column;}
