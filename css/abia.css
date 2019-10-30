@@ -1,0 +1,67 @@
+*{
+
+	margin: 0px;
+	box-sizing: border-box;
+}
+a{
+
+	text-decoration: none;
+}
+
+h1{
+
+	text-align: center;
+}
+.navbar{
+
+	background-color: gray;
+	color: white;
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.navbar a{
+
+	color: white;
+	padding: 14px 15px;
+	text-transform: uppercase;
+}
+select{float: right;
+}
+
+.navbar a:hover{background-color: white;
+
+	
+	color: black;
+	font-weight: bold;
+}
+
+
+footer{
+
+	background-color: gray;
+	color: white;
+	text-align: center;
+	padding-top: 3px;
+	margin-top: 5px;
+}
+h4 ,img{
+
+	padding: 0px 5px;
+}
+.download{
+padding-left: 120PX;
+color: red;
+
+}
+img{height: 450;
+width: 450}
+
+
+@media screen and (max-width: 467px)
+{
+
+	.navbar{display: flex;
+		flex-direction: column;
+		align-items: center;}
+		navbar a:hover{background-color: white;}
+}
