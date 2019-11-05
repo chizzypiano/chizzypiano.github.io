@@ -53,7 +53,7 @@ h1{font-weight: bold;
 .navbar a:focus{color: gray;}
 
 .next a{
-	color: green;
+	color: red;
 	font-weight: bold;
 	text-align: right;
 }
