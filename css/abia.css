@@ -52,7 +52,7 @@ h1{font-weight: bold;
 .navbar a:hover{color: red;}
 .navbar a:focus{color: gray;}
 
-.next{
+.next a{
 	color: green;
 	font-weight: bold;
 	text-align: right;
