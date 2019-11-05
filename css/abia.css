@@ -55,7 +55,9 @@ h1{font-weight: bold;
 .next a{
 	color: red;
 	font-weight: bold;
-	text-align: right;
+	
+}
+.next {text-align: right;
 }
 
 }
